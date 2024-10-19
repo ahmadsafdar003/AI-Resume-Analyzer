@@ -90,23 +90,24 @@ Feel Free to mail me ahmadsafdar003@gmail.com
 ![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/user/7.png)
 
 ##Feedback
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/a72c5730-4334-4878-b241-2d1ceee37a08)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/feedback/8.png)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/feedback/9.png)
 
 ##About
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/79754053-57b5-4d4a-84be-127166a7f2d9)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/about/10.png)
 
 ##Admin
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/6b2d79d6-ea36-42dd-b3ba-f1886e278728)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/admin/11.png)
 
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/23b849d4-ea57-4470-a9da-7c99b11afff6)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/admin/12.png)
 
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/317484c7-43e4-40a0-9606-895b435702ee)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/admin/13.png)
 
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/2daf5b8e-a445-4661-b8cb-c44021773dfe)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/admin/14.png)
 
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/a940cfec-f9ad-4ad7-b2c0-fa3d131a1a01)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/admin/15.png)
 
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/35d62146-1ef6-4cea-afc3-5c04e27e3c30)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/admin/16.png)
 
 
 
