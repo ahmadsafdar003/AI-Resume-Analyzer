@@ -33,7 +33,7 @@ To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
 ```bash
-git clone https://github.com/Qaiserfarooq285/AI-Resume-Analyzer.git
+git clone https://github.com/ahmadsafdar003/AI-Resume-Analyzer.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
@@ -69,7 +69,7 @@ Feel Free to mail me ahmadsafdar003@gmail.com
 
 
 
-### Built by <a href="https://qaiserfarooq-portfolio.netlify.app/">Qaiser Farooq</a>
+### Built by <a href="https://ahmadsafdar.netlify.app/">Ahmad Safdar</a>
 
 <div>
 ## Preview 👽
