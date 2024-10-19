@@ -6,7 +6,7 @@
 
 ![AI Resume Analyzer](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/App/Logo/RESUM.png)
 
-  <h1>🌴 AI RESUME ANALYZER 🌴</h1>
+  <h1> AI RESUME ANALYZER </h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
  
 
@@ -63,7 +63,7 @@ python -m spacy download en_core_web_sm
 How it Works
 Check-out  [Video](https://youtu.be/dO-QfkezZh8)
 
-Feel Free to mail me qaiserfarooq285@gmail.com
+Feel Free to mail me ahmadsafdar003@gmail.com
 
 
 
@@ -76,15 +76,18 @@ Feel Free to mail me qaiserfarooq285@gmail.com
   
 ##User
 
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/711ff261-5c47-4952-a095-1e2712b633c8)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/user/1.png)
 
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/dd3aea19-4b75-4e72-9c42-92dcdebcc90c)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/user/2.png)
 
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/167ddd53-ed96-40da-8b3d-332587b76c60)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/user/3.png)
 
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/874a7cbf-cc6d-40a4-9986-106bca9a39c7)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/user/4.png)
 
-![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/3439b2e8-afc5-4955-bb95-52e08108e6b4)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/user/5.png)
+
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/user/6.png)
+![image](https://github.com/ahmadsafdar003/AI-Resume-Analyzer/blob/main/AI-Resume-Analyzer/screenshots/user/7.png)
 
 ##Feedback
 ![image](https://github.com/Qaiserfarooq285/AI-Resume-Analyzer/assets/118597629/a72c5730-4334-4878-b241-2d1ceee37a08)
