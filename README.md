@@ -61,7 +61,7 @@ python -m spacy download en_core_web_sm
 ```
 
 How it Works
-Check-out  [Video](https://youtu.be/dO-QfkezZh8)
+Check-out  [Video](https://youtu.be/L64Lk28B0nI?si=WcocDpL4Jy-CXX6g)
 
 Feel Free to mail me ahmadsafdar003@gmail.com
 
